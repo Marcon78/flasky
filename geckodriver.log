@@ -1,0 +1,407 @@
+1505197766900	geckodriver	INFO	geckodriver 0.18.0
+1505197766908	geckodriver	INFO	Listening on 127.0.0.1:8048
+1505197769022	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505197769310	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505197769650	Marionette	INFO	Enabled via --marionette
+[GPU 16144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505197771084	Marionette	INFO	Listening on port 8055
+1505197771096	Marionette	INFO	Listening on port 8055
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1505197772173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505197772246	Marionette	DEBUG	loaded listener.js
+[GPU 16144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505197776883	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 13788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505197806910	geckodriver::marionette	ERROR	Failed to kill browser process
+1505198236478	geckodriver	INFO	geckodriver 0.18.0
+1505198236487	geckodriver	INFO	Listening on 127.0.0.1:1041
+1505198238596	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505198238947	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505198239286	Marionette	INFO	Enabled via --marionette
+[GPU 13860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505198240566	Marionette	INFO	Listening on port 15500
+1505198240578	Marionette	INFO	Listening on port 15500
+1505198240637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505198240669	Marionette	DEBUG	loaded listener.js
+[GPU 13860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16300] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16300] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505198753688	geckodriver	INFO	geckodriver 0.18.0
+1505198753697	geckodriver	INFO	Listening on 127.0.0.1:15631
+1505198755804	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505198756213	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505198756570	Marionette	INFO	Enabled via --marionette
+[Child 1796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505198757969	Marionette	INFO	Listening on port 15637
+1505198757989	Marionette	INFO	Listening on port 15637
+1505198758945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505198758978	Marionette	DEBUG	loaded listener.js
+[GPU 15204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505198965678	Marionette	INFO	Enabled via --marionette
+1505198967012	Marionette	INFO	Listening on port 15828
+1505198967023	Marionette	INFO	Listening on port 15828
+1505198967091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505198967124	Marionette	DEBUG	loaded listener.js
+1505198981229	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505198983283	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505198983286	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505198983286	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505198983325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505198983347	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505198984380	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505198984382	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505198984382	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505198984405	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/shutdown&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+[GPU 17176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17176] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505199295978	geckodriver	INFO	geckodriver 0.18.0
+1505199295989	geckodriver	INFO	Listening on 127.0.0.1:16014
+1505199298082	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505199298356	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505199298690	Marionette	INFO	Enabled via --marionette
+1505199299971	Marionette	INFO	Listening on port 16020
+1505199299986	Marionette	INFO	Listening on port 16020
+1505199300135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505199300168	Marionette	DEBUG	loaded listener.js
+1505199340555	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505199342606	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505199342612	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505199342613	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505199342665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505199342692	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505199343726	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505199343728	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505199343729	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505199343747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/shutdown&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+[GPU 8] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505199464989	geckodriver	INFO	geckodriver 0.18.0
+1505199464998	geckodriver	INFO	Listening on 127.0.0.1:16085
+1505199467108	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505199467403	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505199467746	Marionette	INFO	Enabled via --marionette
+1505199469018	Marionette	INFO	Listening on port 16091
+1505199469026	Marionette	INFO	Listening on port 16091
+1505199469148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505199469185	Marionette	DEBUG	loaded listener.js
+1505199483046	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505199483503	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505199483503	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505199544710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/"
+1505199544726	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/"
+1505199544804	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/"
+1505199544822	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/"
+1505199544822	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505199546638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/auth/login"
+1505199546640	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/auth/login"
+1505199546760	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/auth/login"
+1505199547066	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/auth/login"
+1505199547066	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505199547177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/"
+1505199547192	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/"
+1505199547236	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/"
+1505199547387	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/"
+1505199547388	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505199547469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/user/john"
+1505199547471	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/user/john"
+1505199547486	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/user/john"
+1505199547582	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/user/john"
+1505199547583	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/user/john"
+1505199547590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/shutdown"
+1505199547594	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/shutdown"
+1505204923217	geckodriver	INFO	geckodriver 0.18.0
+1505204923229	geckodriver	INFO	Listening on 127.0.0.1:1126
+1505204925332	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505204925717	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505204926057	Marionette	INFO	Enabled via --marionette
+1505204927392	Marionette	INFO	Listening on port 1133
+1505204927397	Marionette	INFO	Listening on port 1133
+1505204928489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505204928546	Marionette	DEBUG	loaded listener.js
+1505204969175	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505204971230	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505204971235	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505204971236	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505204971280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505204971299	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505204972338	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505204972340	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505204972341	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+1505204972370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8080/shutdown&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E5%BB%BA%E7%AB%8B%E5%88%B0%20localhost%3A8080%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E3%80%82"
+[GPU 13480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505205298902	geckodriver	INFO	geckodriver 0.18.0
+1505205298910	geckodriver	INFO	Listening on 127.0.0.1:1188
+1505205301022	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505205301291	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505205301618	Marionette	INFO	Enabled via --marionette
+[Child 13540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505205302968	Marionette	INFO	Listening on port 1194
+1505205302988	Marionette	INFO	Listening on port 1194
+1505205303066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505205303098	Marionette	DEBUG	loaded listener.js
+[GPU 14496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505205512508	geckodriver	INFO	geckodriver 0.18.0
+1505205512519	geckodriver	INFO	Listening on 127.0.0.1:16040
+1505205514619	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505205514890	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505205515230	Marionette	INFO	Enabled via --marionette
+[GPU 16156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1505205516483	Marionette	INFO	Listening on port 16046
+1505205516491	Marionette	INFO	Listening on port 16046
+1505205516667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505205516699	Marionette	DEBUG	loaded listener.js
+[GPU 16156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505205982866	geckodriver	INFO	geckodriver 0.18.0
+1505205982866	geckodriver	INFO	Listening on 127.0.0.1:16395
+1505205984960	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505205985226	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505205985548	Marionette	INFO	Enabled via --marionette
+1505205986744	Marionette	INFO	Listening on port 16401
+1505205986782	Marionette	INFO	Listening on port 16401
+1505205987026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505205987066	Marionette	DEBUG	loaded listener.js
+1505206002412	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505206002897	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505206002897	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206003729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/"
+1505206003737	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/"
+1505206003804	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/"
+1505206003821	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/"
+1505206003821	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206003891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/auth/login"
+1505206003893	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/auth/login"
+1505206003998	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/auth/login"
+1505206004324	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/auth/login"
+1505206004324	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206004422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/"
+1505206004435	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/"
+1505206004480	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/"
+1505206004625	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/"
+1505206004625	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206004707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/user/john"
+1505206004709	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/user/john"
+1505206004724	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/user/john"
+1505206004819	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/user/john"
+1505206004819	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/user/john"
+1505206004823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/shutdown"
+1505206004825	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/shutdown"
+1505206486386	geckodriver	INFO	geckodriver 0.18.0
+1505206486395	geckodriver	INFO	Listening on 127.0.0.1:1091
+1505206488456	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505206488744	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505206489103	Marionette	INFO	Enabled via --marionette
+[GPU 15692] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1505206490345	Marionette	INFO	Listening on port 1111
+1505206490351	Marionette	INFO	Listening on port 1111
+1505206490504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505206490540	Marionette	DEBUG	loaded listener.js
+1505206530527	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505206531041	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505206531041	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206532276	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/"
+1505206532285	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/"
+1505206532364	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/"
+1505206532383	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/"
+1505206532383	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206532448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/auth/login"
+1505206532450	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/auth/login"
+1505206532551	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/auth/login"
+1505206532628	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/auth/login"
+1505206532628	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206532722	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/auth/login"
+1505206532723	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/auth/login"
+1505206532737	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/auth/login"
+1505206532751	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/auth/login"
+1505206532751	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206532814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/shutdown"
+1505206532816	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/shutdown"
+1505206864664	geckodriver	INFO	geckodriver 0.18.0
+1505206864671	geckodriver	INFO	Listening on 127.0.0.1:20274
+1505206866736	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505206867029	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505206867378	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[GPU 10020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505206868648	Marionette	INFO	Listening on port 20281
+1505206868650	Marionette	INFO	Listening on port 20281
+1505206868775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505206868807	Marionette	DEBUG	loaded listener.js
+1505206909424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505206909820	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505206909820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206910910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/"
+1505206910919	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/"
+1505206910987	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/"
+1505206911004	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/"
+1505206911004	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206911076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/auth/login"
+1505206911078	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/auth/login"
+1505206911187	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/auth/login"
+1505206911247	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/auth/login"
+1505206911247	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206911314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/auth/login"
+1505206911316	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/auth/login"
+1505206911329	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/auth/login"
+1505206911343	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/auth/login"
+1505206911343	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505206911405	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/shutdown"
+1505206911407	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/shutdown"
+[Child 7060] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1505207244993	geckodriver	INFO	geckodriver 0.18.0
+1505207245002	geckodriver	INFO	Listening on 127.0.0.1:14106
+1505207247108	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505207247476	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505207247808	Marionette	INFO	Enabled via --marionette
+[Child 14920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505207249150	Marionette	INFO	Listening on port 14112
+1505207249179	Marionette	INFO	Listening on port 14112
+1505207250273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505207250323	Marionette	DEBUG	loaded listener.js
+1505207265331	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505207265694	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505207265694	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207266469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/"
+1505207266475	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/"
+1505207266540	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/"
+1505207266555	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/"
+1505207266555	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207266621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/auth/login"
+1505207266623	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/auth/login"
+1505207266745	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/auth/login"
+1505207266804	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/auth/login"
+1505207266804	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207266876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/auth/login"
+1505207266878	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/auth/login"
+1505207266893	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8080/auth/login"
+1505207266906	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8080/auth/login"
+1505207266907	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8080/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207266969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/shutdown"
+1505207266971	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/shutdown"
+1505207620437	geckodriver	INFO	geckodriver 0.18.0
+1505207620449	geckodriver	INFO	Listening on 127.0.0.1:14361
+1505207622505	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505207622789	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505207623124	Marionette	INFO	Enabled via --marionette
+[Child 4564] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4564] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505207624566	Marionette	INFO	Listening on port 14367
+1505207624583	Marionette	INFO	Listening on port 14367
+1505207625651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505207625689	Marionette	DEBUG	loaded listener.js
+1505207639941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505207640405	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505207640405	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207642186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/"
+1505207642189	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/"
+1505207642260	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/"
+1505207642278	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/"
+1505207642278	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207642354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/auth/login"
+1505207642356	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/auth/login"
+1505207642464	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/auth/login"
+1505207642779	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/auth/login"
+1505207642779	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/auth/login"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207642892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/"
+1505207642902	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/"
+1505207642953	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/"
+1505207643076	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/"
+1505207643076	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/"
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js, line 1: unreachable code after return statement
+1505207643159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/user/john"
+1505207643162	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/user/john"
+1505207643177	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:5000/user/john"
+1505207643286	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:5000/user/john"
+1505207643287	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:5000/user/john"
+1505207643292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5000/shutdown"
+1505207643294	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5000/shutdown"

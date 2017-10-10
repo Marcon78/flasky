@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}Flasky - {{ user.username }}{% endblock %}
+
+{% block page_content %}
+<div class="page-header">
+    <img class="img-rounded profile-thumbnail" src="{{ url_for('static', filename='baby_face.jpg') }}" height="256" width="256">
+    <div class="profile-header">
+        <h1>{{ user.username }}</h1>
+        {% if user.name or user.location %}
+        <p>
+            {% if user.name %}{{ user.name }}{% endif %}
+            {% if user.location %}
+                From <a href="https://maps.google.com/?q={{ user.location }}">{{ user.location }}</a>
+            {% endif %}
+        </p>
+        {% endif %}
+        {% if current_user.is_administrator() %}
+        <p><a href="mailto:{{ user.email }}">{{ user.email }}</a></p>
+        {% endif %}
+        {% if user.about_me %}<p>{{ user.about_me }}</p>{% endif %}
+        <p>Member since {{ moment(user.member_since).format("L") }}. Last seen {{ moment(user.last_seen).fromNow() }}.</p>
+        <p>{{ user.posts.count() }} blog posts.</p>
+        <p>
+            {% if current_user.can(Permission.FOLLOW) and current_user != user %}
+                {% if not current_user.is_following(user) %}
+                <a class="btn btn-primary" href="{{ url_for('main.follow', username=user.username) }}">Follow</a>
+                {% else %}
+                <a class="btn btn-default" href="{{ url_for('main.unfollow', username=user.username) }}">Unfollow</a>
+                {% endif %}
+            {% endif %}
+            <!-- 因为用户的自关注链接，用户资料页显示的关注者和被关注者的数量都增加了 1 个。 -->
+            <a href="{{ url_for('main.followers', username=user.username) }}">Followers: <span class="badge">{{ user.followers.count()-1 }}</span></a>
+            <a href="{{ url_for('main.followed_by', username=user.username) }}">Following: <span class="badge">{{ user.followed.count()-1 }}</span></a>
+            {% if current_user.is_authenticated and current_user != user and user.is_following(current_user) %}
+                | <span class="label label-default">Follows you</span>
+            {% endif %}
+        </p>
+        <p>
+            {% if user == current_user %}
+            <a class="btn btn-default" href="{{ url_for('main.edit_profile') }}">Edit Profile</a>
+            {% endif %}
+            {% if current_user.is_administrator() %}
+            <a class="btn btn-danger" href="{{ url_for('main.edit_profile_admin', id=user.id) }}">Edit Profile [Admin]</a>
+            {% endif %}
+        </p>
+    </div>
+</div>
+<h3>Post by {{ user.username }}</h3>
+{% include "_posts.html" %}
+{% if pagination %}
+<div class="pagination">
+    {{ macros.pagination_widget(pagination, "main.user", username=user.username) }}
+</div>
+{% endif %}
+{% endblock %}
